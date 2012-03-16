@@ -1,0 +1,7 @@
+module Requirejs
+  module Controllers
+    module Rails
+      VERSION = "0.1.0"
+    end
+  end
+end
