@@ -10,7 +10,7 @@ Gem::Specification.new do |gem|
   gem.summary       = %q{A collection of RequireJS controllers for Rails 3.x}
   gem.homepage      = "https://github.com/madvertise/requirejs-controllers"
 
-  gem.add_dependency "railties", "~> 4.2"
+  gem.add_dependency "railties", "= 5.0"
 
   gem.add_dependency "coffee-rails"
   gem.add_dependency "jquery-plugins-rails"
